@@ -1,0 +1,9 @@
+META-INF/spring-configuration-metadata.json
+soul/reclusive/config/MybatisPlusConfig.class
+soul/reclusive/config/ApiInfoProperties.class
+soul/reclusive/App.class
+soul/reclusive/controller/HelloController.class
+soul/reclusive/config/DocketProperties.class
+soul/reclusive/config/SwaggerProperties.class
+soul/reclusive/config/SwaggerAutoConfiguration.class
+soul/reclusive/config/ApiParamType.class

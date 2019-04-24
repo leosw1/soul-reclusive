@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "swagger",
+      "type": "soul.reclusive.config.SwaggerProperties",
+      "sourceType": "soul.reclusive.config.SwaggerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "swagger.api-info",
+      "type": "soul.reclusive.config.ApiInfoProperties",
+      "sourceType": "soul.reclusive.config.SwaggerProperties"
+    },
+    {
+      "name": "swagger.docket",
+      "type": "soul.reclusive.config.DocketProperties",
+      "sourceType": "soul.reclusive.config.SwaggerProperties"
+    },
+    {
+      "name": "swagger.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "soul.reclusive.config.SwaggerProperties"
+    }
+  ],
+  "hints": []
+}
